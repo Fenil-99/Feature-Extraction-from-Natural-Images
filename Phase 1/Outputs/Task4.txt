@@ -1,0 +1,22 @@
+Query 1: set1 image0.png 4
+	Image path			Z Score
+{'Downloads/set1\\image-7.png': -0.10262793985406746, 
+'Downloads/set1\\image-2.png': -0.01285829959520706, 
+'Downloads/set1\\image-6.png': 0.061203806924142026, 
+'Downloads/set1\\image-8.png': 0.28764024021424184}
+
+
+Query 2: set2 image0.png 4
+	Image path			Z Score
+{'Downloads/set2\\image-2.png': -0.17433190760751588, 
+'Downloads/set2\\image-4.png': 0.27184965268861633, 
+'Downloads/set2\\image-1.png': 0.3422484015829996, 
+'Downloads/set2\\image-3.png': 0.34574513045679867}
+
+
+Query 3: set3 image0.png 4
+	Image path			Z Score
+{'Downloads/set3\\image-110.png': 0.04908222336957168, 
+'Downloads/set3\\image-70.png': 0.16299589296356848, 
+'Downloads/set3\\image-90.png': 0.2186113303888444, 
+'Downloads/set3\\image-100.png': 0.25447183670644086}
